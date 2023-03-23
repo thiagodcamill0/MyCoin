@@ -5,7 +5,7 @@
         android:startColor="@color/verde_claro"
         android:centerColor="@color/verde"
         android:endColor="@color/verde_escuro"
-        android:angle="45"
+        android:angle="44"
         />
     <corners android:radius="20dp"/>
     <stroke android:color="@color/black" android:width="2dp"/>
